@@ -2,6 +2,9 @@
 
 Modified Classification via Clustering package of Weka
 
+This is the weka implementation of ClassificationviaClustering (for more than 2 clusters), referenced from "https://onlinecourses.science.psu.edu/stat857/node/113" (Scheme 2)
+
+
 #----------------------------------------------#
 Run WEKA (Project) in Eclipse
 
